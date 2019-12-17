@@ -1,0 +1,38 @@
+body{
+    font-family: sans-serif;
+    text-align: justify;
+    background-color: rgb(201, 203, 206);
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 250%;
+}
+h2{
+    font-size: 200%;
+    text-decoration: underline;
+    color: rgb(64, 76, 83);
+    background-color: lightslategray;
+}
+h3{
+    font-size: 130%;
+    font-style: oblique;
+    background-color: lightslategrey;
+    color: rgb(64, 76, 83);
+}
+p{
+    background-color: lightsteelblue;
+}
+em{
+    color: blue;
+    font-style: normal;
+}
+strong{
+    color: blue;
+    font-weight: bolder;
+}
+address{
+    text-align: right;
+    background-color: white;
+    
+}
